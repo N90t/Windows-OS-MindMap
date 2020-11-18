@@ -5,7 +5,9 @@ Mind map of all ideas &amp; concepts for you to make easy understanding of OS.
 Lot of people in cybersecurity and DF believe that these fields are core to understand O.S, that's the reason we have created a mind map of all ideas & concepts for you to make easy understanding of OS. Understanding these components.. Helps people who wanted to do a Malware Analysis,, DFIR, Writing security tools.
 
 A brief of how it looks:
+
 ![OS mind map](https://user-images.githubusercontent.com/74539498/99470209-5be5ef80-296a-11eb-8424-95ed24b85a0a.png)
+
 
 
 
